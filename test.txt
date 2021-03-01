@@ -1,0 +1,11 @@
+ Volume in drive D is Personal Stuff
+ Volume Serial Number is E0B2-A4B3
+
+ Directory of D:\GitPractice
+
+01-Mar-21  11:41 PM    <DIR>          .
+01-Mar-21  11:41 PM    <DIR>          ..
+01-Mar-21  11:41 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  177,092,558,848 bytes free
+Some text added
